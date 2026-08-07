@@ -180,7 +180,7 @@ jobs:
 | Upload image binary | `PUT <uploadUrl>` (returned by previous step) | [Images API](https://learn.microsoft.com/en-us/linkedin/marketing/community-management/shares/images-api) |
 | Create post | `POST /rest/posts` | [Posts API](https://learn.microsoft.com/en-us/linkedin/marketing/community-management/shares/posts-api) |
 
-> **API version:** The action pins `LinkedIn-Version: 202504`. LinkedIn deprecates versions quarterly. Open an issue if a new version introduces breaking changes.
+> **API version:** The action pins `LinkedIn-Version: 202508`. LinkedIn deprecates versions quarterly. Open an issue if a new version introduces breaking changes.
 
 ---
 

@@ -8,7 +8,7 @@ IMAGE_PATH = os.environ.get("IMAGE_PATH", "")
 POST_TEXT = os.environ.get("POST_TEXT", "Posted automatically via GitHub Actions!")
 
 API_BASE = "https://api.linkedin.com/rest"
-LINKEDIN_VERSION = "202504"
+LINKEDIN_VERSION = "202508"
 
 HEADERS = {
     "Authorization": f"Bearer {ACCESS_TOKEN}",
