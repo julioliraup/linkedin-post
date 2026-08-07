@@ -194,4 +194,4 @@ jobs:
 
 ## License
 
-[GPL-3.0](LICENSE) © [Julio Lira](https://julioliraup.github.io)
+[GPL-3.0](LICENSE)
